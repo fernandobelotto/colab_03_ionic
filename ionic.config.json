@@ -1,0 +1,7 @@
+{
+  "name": "colab_03_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
